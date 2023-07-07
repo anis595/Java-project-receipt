@@ -6,4 +6,5 @@
  *
  */
 module TicketDeCaisse {
+	requires java.sql;
 }

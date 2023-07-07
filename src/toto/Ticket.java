@@ -6,6 +6,7 @@ import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 
+
 class Ticket {
     private List<Article> articles;
     private String modePaiement; 
