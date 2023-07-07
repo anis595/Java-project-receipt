@@ -2,18 +2,20 @@
 
 ## Structure de l'application
 
-C'est une application qui sert à editer un ticket de caisse en entrant directement les données voulu dans la console 
+C'est une application qui sert à editer un ticket de caisse en entrant directement les données voulu dans la console.
 
-## Installation
+## Installation et utilisation
 
-Pour pouvoir utiliser l'application il vous faudra installer Java ainsi qu'un IDE surpportant JAVA.
+Pour pouvoir utiliser l'application il vous faudra installer Java ainsi qu'un IDE surpportant JAVA. <br>
+'run'  project
 
 
 ## Driver Manager
 
-Il vous faudra egalement installer et implémenter JAR (doc ci-dessous)
--
--
+Connexion d'une base de donnée mySQL avec une base de console Java grace à DriverManager Necessite un pilote Installation dans le Module Path Permet la connexion avec JDBC, lien de la doc ci-dessous: <br>
+https://dev.mysql.com/downloads/connector/j/
+https://dev.mysql.com/doc/connector-j/8.0/en/connector-j-usagenotes-connect-drivermanager.html#connector-j-examples-connection-drivermanager
+
 
 ## Licence
 Copyright (c) 2012-2023 Scott Chacon and others
