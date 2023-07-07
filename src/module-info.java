@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author gheda
+ *
+ */
+module TicketDeCaisse {
+}
